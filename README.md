@@ -14,9 +14,9 @@ password is wrong.
 
 ## Features
 
-1.) User can enter the password.
-2.) The red light will glow ie the entered password is wrong.
-3.) The green light will glow iÿ the entered password is correct
+1.) User can enter the password.<br>
+2.) The red light will glow ie the entered password is wrong.<br>
+3.) The green light will glow iÿ the entered password is correct<br>
 
 ## Block Diagram
 
