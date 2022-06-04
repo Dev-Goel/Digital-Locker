@@ -1,4 +1,4 @@
-# [Digital Design-EEL2020 Course Project](https://github.com/Dhruv-Mahajan1/Digital-Locker)
+# [Digital Design-CSL2070 Course Project](https://github.com/Dev-Goel/Digital-Locker)
 
 _Course Instructor: Dr. Nitin Bhatia_
 
@@ -7,16 +7,16 @@ _Course Instructor: Dr. Nitin Bhatia_
 ## About the Project
 
 Our project digital locker aims to build a digital lock that can be
-unlocked by a 4 digit password. This user can input the password and
+unlocked by a 4 digit password. The user can input the password and
 based on the input the locker will give a signal i.e., the locker led will
-turn green ie the password is correct and locker led will turn ie the
+turn green if the password is correct and locker led will turn red if the
 password is wrong.
 
 ## Features
 
 1.) User can enter the password.<br>
-2.) The red light will glow ie the entered password is wrong.<br>
-3.) The green light will glow iÿ the entered password is correct<br>
+2.) The red light will glow if the entered password is wrong.<br>
+3.) The green light will glow if the entered password is correct<br>
 
 ## Block Diagram
 
